@@ -26,7 +26,7 @@ Clona este repositorio:
 
 `bash`
 ```python
-git clone https://github.com/GilbertoM0/Limpieza-de-datos-Netflix.git
+git clone https://github.com/GilbertoM0/Videojuegos-Exa.git
 ```
 ## Instala las dependencias:
 
