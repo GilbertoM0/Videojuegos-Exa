@@ -8,6 +8,7 @@
 
 # Análisis de Dataset de Videojuegos
 Este repositorio contiene un análisis detallado del dataset de Videojuegos, que incluye información sobre los videojuegos los name la plataforma y una calificacion de tal videojuego. El objetivo del proyecto es explorar y visualizar los datos para obtener el dataset lo mas limpio posible.
+# Pasos que realice en resumen:
 
 ## Descripción del Dataset
 El dataset contiene las siguientes columnas representada en la imagen:
