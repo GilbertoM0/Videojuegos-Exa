@@ -14,6 +14,10 @@ El dataset contiene las siguientes columnas representada en la imagen:
 
 ![image](https://github.com/user-attachments/assets/13896d8b-f77d-42e4-8493-622ecb7a11b2)
 
+# Cheque si habia datos nulos, en efecto habia en la columna summary entonces los rellene con Desconocido para no perder esos datos valiosos
+![image](https://github.com/user-attachments/assets/f6650559-7daa-42ed-8d1e-b035f71143ac)
+
+
 ## Analisis de datos numericos
 ![image](https://github.com/user-attachments/assets/03c2badd-4c51-47b6-a91a-c3e0adcc4077)
  Donde se yo verifique si habia datos menores a 20 o mayores a 100 que en este caso no habia 
